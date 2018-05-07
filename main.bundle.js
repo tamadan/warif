@@ -157,6 +157,7 @@ var CouponActionComponent = /** @class */ (function () {
     CouponActionComponent.prototype.ngOnInit = function () {
     };
     CouponActionComponent.prototype.pop = function () {
+	    this.navi.element.pop();
     };
     CouponActionComponent = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
