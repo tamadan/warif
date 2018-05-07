@@ -228,7 +228,7 @@ var CouponListComponent = /** @class */ (function () {
         var _this = this;
         this.state = 'isLoading';
         // load filter options from localStorage
-        this.http.get('../../assets/json/stores.json')
+        this.http.get('./assets/json/stores.json')
             .subscribe(function (response) {
             var list = [];
             list = response['store'];
@@ -356,7 +356,7 @@ var StoreInfoComponent = /** @class */ (function () {
     }
     StoreInfoComponent.prototype.ngOnInit = function () {
         var _this = this;
-        this.http.get('../../assets/json/store.json')
+        this.http.get('./assets/json/store.json')
             .subscribe(function (response) {
             var list = [];
             list = response['store'];
@@ -372,7 +372,7 @@ var StoreInfoComponent = /** @class */ (function () {
             _this.storeImage.push(_this.storeInfo['store_image4']);
             _this.storeImage.push(_this.storeInfo['store_image5']);
         });
-        this.http.get('../../assets/json/warif.json')
+        this.http.get('./assets/json/warif.json')
             .subscribe(function (response) {
             var list = [];
             list = response['warif'];
