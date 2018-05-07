@@ -1,0 +1,40 @@
+{
+    "warif": [
+        {
+                    "warif_id":1,
+                    "warif_name":"夢のアプリ",
+                    "warif_description":"飲めば驚くサプリです!?\nカキガラ末含有食品",
+                    "original_price":10000,
+                    "warif_price":8000,
+                    "effective_day_time":{"0":[900, 1200], "1":[1000, 1200], "2": [1000, 2300], "3": [1000, 2300], "4": [1000, 2300], "6":[600, 900]},
+                    "warif_image_url":"https%3a%2f%2ftesttest%2ejp"
+        },
+        {
+                    "warif_id":2,
+                    "warif_name":"すごい元気の素",
+                    "warif_description":"漢方の力をドリンクに！　名前通りのサプリです。",
+                    "original_price":300,
+                    "warif_price":240,
+                    "effective_day_time":{"5": [1200, 1300], "6":[1200, 1300]},
+                    "warif_image_url":"https%3a%2f%2ftesttest%2ejp"
+        },
+        {
+                    "warif_id":2,
+                    "warif_name":"すごい元気の素",
+                    "warif_description":"漢方の力をドリンクに！　名前通りのサプリです。",
+                    "original_price":300,
+                    "warif_price":240,
+                    "effective_day_time":{"5": [1200, 1300], "6":[1200, 1300]},
+                    "warif_image_url":"https%3a%2f%2ftesttest%2ejp"
+        },
+        {
+                    "warif_id":2,
+                    "warif_name":"すごい元気の素",
+                    "warif_description":"漢方の力をドリンクに！　名前通りのサプリです。",
+                    "original_price":300,
+                    "warif_price":240,
+                    "effective_day_time":{"5": [1200, 1300], "6":[1200, 1300]},
+                    "warif_image_url":"https%3a%2f%2ftesttest%2ejp"
+        }
+    ]
+}

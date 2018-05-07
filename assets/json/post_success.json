@@ -1,0 +1,9 @@
+{
+    "meta": {
+        "code": 200,
+        "ok": true,
+        "message": "success",
+        "res_type": "success"
+    },
+    "response": {}
+}

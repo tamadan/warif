@@ -1,0 +1,9 @@
+{
+    "meta": {
+        "code": 401,
+        "ok": false,
+        "message": "Missing access credentials. ",
+        "res_type": "invalid_auth"
+    },
+    "response": {}
+}

@@ -1,0 +1,14 @@
+{
+        "store": {
+                "store_id":1,
+                "store_description":"めちゃ絶好調になれるクーポンアプリ！\nこのクーポンアプリは完全に成果報酬型だから、導入も簡単！\nスタジオ、料理店、エステなどなんでもござれ！\nあらゆる店舗でご利用いただけます！",
+                "store_hp_link":"https%3a%2f%2ftesttest%2ejp",
+                "store_tell_number1":"09012345678",
+                "store_mail_address1":"zekkocho777@email.com",
+                "store_image1":"https%3a%2f%2ftesttest%2ejp",
+                "store_image2":"https%3a%2f%2ftesttest%2ejp",
+                "store_image3":"https%3a%2f%2ftesttest%2ejp",
+                "store_image4":"https%3a%2f%2ftesttest%2ejp",
+                "store_image5":"https%3a%2f%2ftesttest%2ejp"
+        }
+}

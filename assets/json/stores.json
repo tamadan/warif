@@ -1,0 +1,32 @@
+{
+        "store": [
+            {
+                    "store_id":1,
+                    "store_name":"割り符店舗A",
+                    "store_name_kana":"ワリフテンポA",
+                    "store_category":["01", "0A", "2A", "5B", "FF"],
+                    "store_summary":"めちゃ絶好調になれるクーポンアプリ！",
+                    "primary_warif_id": 1,
+                    "store_open_datetime":{"0":[900, 1200], "1":[1000, 1200], "2": [1000, 2300], "3": [1000, 2300], "4": [1000, 2300], "6":[600, 900]},
+                    "store_type":0,
+                    "address": "東京都品川区東大井1-10-111 ほげふが201",
+                    "regular_holiday":["5", "0101"],
+                    "store_status":0,
+                    "store_image1":"https%3a%2f%2ftesttest%2ecom"
+            },
+            {
+                    "store_id":2,
+                    "store_name":"あり符店舗B",
+                    "store_name_kana":"あリフテンポB",
+                    "store_category":["01", "0A", "3B"],
+                    "store_summary":"さらに絶好調になれるクーポンアプリ！",
+                    "primary_warif_id": 1,
+                    "store_open_datetime":{"0":[900, 1200], "1":[1000, 1200], "3": [1000, 2300], "4": [1000, 2300], "6":[600, 900]},
+                    "store_type":1,
+                    "address": "東京都品川区東大井1-10-111 ほげふが203",
+                    "regular_holiday":["2", "5", "0101"],
+                    "store_status":1,
+                    "store_image1":"https%3a%2f%2ftesttest%2ejp"
+            }
+        ]
+}
